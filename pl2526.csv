@@ -209,16 +209,16 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Result
 208,21,07/01/2026 20:00,Etihad Stadium,Man City,Brighton,1 - 1
 209,21,07/01/2026 20:00,St. James' Park,Newcastle,Leeds,4 - 3
 210,21,07/01/2026 20:00,London Stadium,West Ham,Nott'm Forest,1 - 2
-211,22,17/01/2026 15:00,Villa Park,Aston Villa,Everton,
-212,22,17/01/2026 15:00,American Express Stadium,Brighton,Bournemouth,
-213,22,17/01/2026 15:00,Stamford Bridge,Chelsea,Brentford,
-214,22,17/01/2026 15:00,Elland Road,Leeds,Fulham,
-215,22,17/01/2026 15:00,Anfield,Liverpool,Burnley,
-216,22,17/01/2026 15:00,Old Trafford,Man Utd,Man City,
-217,22,17/01/2026 15:00,The City Ground,Nott'm Forest,Arsenal,
-218,22,17/01/2026 15:00,Stadium of Light,Sunderland,Crystal Palace,
-219,22,17/01/2026 15:00,Tottenham Hotspur Stadium,Spurs,West Ham,
-220,22,17/01/2026 15:00,Molineux Stadium,Wolves,Newcastle,
+211,22,17/01/2026 15:00,Villa Park,Aston Villa,Everton,0 - 1
+212,22,17/01/2026 15:00,American Express Stadium,Brighton,Bournemouth,1 - 1
+213,22,17/01/2026 15:00,Stamford Bridge,Chelsea,Brentford,2 - 0
+214,22,17/01/2026 15:00,Elland Road,Leeds,Fulham,1 - 0
+215,22,17/01/2026 15:00,Anfield,Liverpool,Burnley,1 - 1
+216,22,17/01/2026 15:00,Old Trafford,Man Utd,Man City,2 - 0
+217,22,17/01/2026 15:00,The City Ground,Nott'm Forest,Arsenal,0 - 0
+218,22,17/01/2026 15:00,Stadium of Light,Sunderland,Crystal Palace,2 - 1
+219,22,17/01/2026 15:00,Tottenham Hotspur Stadium,Spurs,West Ham,1 - 2
+220,22,17/01/2026 15:00,Molineux Stadium,Wolves,Newcastle,0 - 0
 221,23,24/01/2026 15:00,Emirates Stadium,Arsenal,Man Utd,
 222,23,24/01/2026 15:00,Vitality Stadium,Bournemouth,Liverpool,
 223,23,24/01/2026 15:00,Gtech Community Stadium,Brentford,Nott'm Forest,
